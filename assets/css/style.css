@@ -1,0 +1,22 @@
+body{
+    background-color: burlywood;
+}
+
+h1{
+    text-align: center;
+    color:crimson ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+li{
+    list-style-type: armenian;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    background-color:bisque ;
+    color:crimson ;
+    padding: 5vh 10vw;
+    font-size: x-large;
+}
